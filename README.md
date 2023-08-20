@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tusharkshahi
 - 👀 I’m interested in Devops
 - 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on linkedin.com/in/tushar-kumar-shahi-b6b35b1ab
+- 💞️ I’m looking to collaborate on www.linkedin.com/in/tusharkshahi
 - 📫 How to reach me tusharkshahi@gmail.com
 
 <!---
